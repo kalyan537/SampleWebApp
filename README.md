@@ -1,2 +1,0 @@
-# SampleWebApp
-SampleWebApp
